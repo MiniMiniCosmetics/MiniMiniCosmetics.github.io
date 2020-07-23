@@ -1,5 +1,5 @@
 ## Hi, My Name is Ramya Konda 
-### image check
+### image check 1
 ### **About Me**
 
 > I love to create looks and capture them
@@ -10,6 +10,7 @@
 
 ### ***Here are some of my works***
 
+![patter](./_src/pattern1.png)
 ![collage](./_src/img1.jpg)
 
 ### If u would like a HOE
