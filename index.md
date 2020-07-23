@@ -2,7 +2,8 @@
 
 > I love to create looks 
 
-### ***Here is some of my work***
+### ***Here are some of my works***
 
+![collage](/_src/collage.jpg)
 
 > Reachout if you would like to suggest or get suggestions - makeup_byramya@gmail.com 
