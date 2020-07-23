@@ -1,5 +1,3 @@
-## Hi, My Name is Ramya Konda 
-
 ### **About Me**
 
 > I love to create looks and capture them
