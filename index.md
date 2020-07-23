@@ -1,5 +1,5 @@
 ## Hi, My Name is Ramya Konda 
-### image check 1
+
 ### **About Me**
 
 > I love to create looks and capture them
@@ -18,3 +18,7 @@ Here is one
 ![hoe](/src/hoe.jpg)
 
 > Reachout if you would like to suggest or get suggestions - makeup_byramya@gmail.com 
+
+```markdown
+version 1.0
+```
