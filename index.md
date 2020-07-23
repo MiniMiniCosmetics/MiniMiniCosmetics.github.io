@@ -3,7 +3,9 @@
 ### **About Me**
 
 > I love to create looks and capture them
+
 > Makeup and styling 
+
 > On a mision to complete Netflix itself
 
 ### ***Here are some of my works***
