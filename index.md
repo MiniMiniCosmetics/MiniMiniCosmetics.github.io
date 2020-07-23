@@ -10,7 +10,7 @@
 
 ### ***Here are some of my works***
 
-![collage](/_src/collage.jpg)
+![collage](./_src/img1.jpg)
 
 ### If u would like a HOE
 Here is one
