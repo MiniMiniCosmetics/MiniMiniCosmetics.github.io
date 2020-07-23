@@ -17,7 +17,8 @@ Here is one
 
 ![hoe](/src/hoe.jpg)
 
-> Reachout if you would like to suggest or get suggestions - makeup_byramya@gmail.com 
+> Reachout if you would like to suggest or get suggestions 
+email - makeup_byramya@gmail.com 
 
 ```markdown
 version 1.0
