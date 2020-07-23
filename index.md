@@ -10,10 +10,11 @@
 
 ### ***Here are some of my works***
 
-![patter](/src/pattern1.png)
+![collage](/src/collage.jpg)
 
 ### If u would like a HOE
 Here is one
 
+![hoe](/src/hoe.jpg)
 
 > Reachout if you would like to suggest or get suggestions - makeup_byramya@gmail.com 
